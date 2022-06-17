@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @kiakaikia
-- 👀 I’m interested in nothing
-
+- 👀 I'm trying my best to increase my knowledge and become a web developer.
